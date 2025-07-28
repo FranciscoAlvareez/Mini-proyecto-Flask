@@ -1,0 +1,9 @@
+{
+  "Ash": [
+    {"id": 1, "nombre": "pikachu"},
+    {"id": 2, "nombre": "charmander"}
+  ],
+  "Misty": [
+    {"id": 1, "nombre": "squirtle"}
+  ]
+}
