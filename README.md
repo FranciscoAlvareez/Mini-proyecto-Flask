@@ -1,2 +1,2 @@
-# Mini-proyecto-RAG
-Proyecto de capacitación sobre RAG
+# Mini-proyecto-Flask
+Proyecto de capacitación sobre flask
